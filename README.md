@@ -23,6 +23,9 @@
 `vim .vimrc` - создание  .vimrc
 
 ```vim
+syntax on
+colorscheme gruvbox
+set background=dark
 set number
 set expandtab
 set tabstop=2
@@ -63,6 +66,9 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 
+"colorschemes
+Plug 'morhetz/gruvbox'
+
 call plug#end()
 
 "mappings 
@@ -74,15 +80,6 @@ map <C-n> :NERDTreeToggle<CR>
 
 `:PlugInstall` - устанавливаем плагин
 
+### Настройка темы
 
-
-
-
-
-
-
-
-
-
-
-
+Используем тему [gruvbox](https://github.com/morhetz/gruvbox)
