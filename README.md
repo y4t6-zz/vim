@@ -66,6 +66,8 @@ Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 call plug#end()
 ```
 
+`:source ~/.vimrc` - вычитываем файл 
+
 
 
 
