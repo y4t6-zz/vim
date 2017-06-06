@@ -22,7 +22,7 @@
 
 `vim .vimrc` - создание  .vimrc
 
-```vimrc
+```vim
 set number
 set expandtab
 set tabstop=2
