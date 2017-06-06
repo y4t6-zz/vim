@@ -28,6 +28,16 @@ set expandtab
 set tabstop=2
 ```
 
+## Поиск по тексту
+
+`/searching-text` then `Enter`
+
+`:set hlsearch` - подсвечиваем результаты поиска
+
+`:set incsearch` - инкрементальный поиск
+
+
+
 
 
 
