@@ -64,9 +64,15 @@ call plug#begin('~/.vim/plugged')
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 
 call plug#end()
+
+"mappings 
+
+map <C-n> :NERDTreeToggle<CR>
 ```
 
 `:source ~/.vimrc` - вычитываем файл 
+
+`:PlugInstall` - устанавливаем плагин
 
 
 
