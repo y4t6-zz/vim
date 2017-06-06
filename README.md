@@ -8,4 +8,19 @@
 
 [vim-cheat-sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 
+[vimwallpaper](https://i.imgur.com/CjREO9t.png)
+
+[vimgolf](http://vimgolf.com/)
+
+# Конфигурация и плагины
+
+`:set number` - включаем нумерацию строк
+
+`:set expandtab` - устанавливаем пробулы на табы
+
+`set tabstop=2` - ширина таба в 2 пробела
+
+
+
+
 
