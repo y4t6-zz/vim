@@ -22,10 +22,13 @@
 
 `vim .vimrc` - создание  .vimrc
 
-```
+```vimrc
 set number
 set expandtab
 set tabstop=2
+
+set hlsearch
+set incsearch
 ```
 
 ## Поиск по тексту
