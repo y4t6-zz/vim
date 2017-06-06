@@ -47,6 +47,19 @@ set incsearch
 
 `:set incsearch` - инкрементальный поиск
 
+### Доступные плагины
+
+[vundle](https://github.com/VundleVim/Vundle.vim)
+
+[pathogen](https://github.com/tpope/vim-pathogen)
+
+[vimplug](https://github.com/junegunn/vim-plug)
+
+
+
+
+
+
 
 
 
