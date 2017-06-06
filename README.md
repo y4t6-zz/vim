@@ -55,6 +55,16 @@ set incsearch
 
 [vimplug](https://github.com/junegunn/vim-plug)
 
+### Конфигурания .vimrc
+
+```vim
+" Specify a directory for plugins (for Neovim: ~/.local/share/nvim/plugged)
+call plug#begin('~/.vim/plugged')
+
+Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
+
+call plug#end()
+```
 
 
 
