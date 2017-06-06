@@ -18,7 +18,17 @@
 
 `:set expandtab` - устанавливаем пробулы на табы
 
-`set tabstop=2` - ширина таба в 2 пробела
+`:set tabstop=2` - ширина таба в 2 пробела
+
+`vim .vimrc` - создание  .vimrc
+
+```
+set number
+set expandtab
+set tabstop=2
+```
+
+
 
 
 
